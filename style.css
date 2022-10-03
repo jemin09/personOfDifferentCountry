@@ -1,0 +1,78 @@
+.table1{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+    margin: 10px;
+    padding: 5px;
+    width: 60%;
+}
+.td1{
+    font-weight: bold;
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+.th1{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding: 5px;
+}
+
+
+
+.IndiaBlue{
+    background-color: blue;
+    font-weight: bold;
+    padding: 2px;
+    border: 2px solid black;
+    color: white;
+    text-align: center;
+    text-align: center;
+    text-align: center;
+}
+
+.USAGreen{
+   background-color:  green;
+   font-weight: bold;
+   padding: 2px;
+   border: 2px solid black;
+   color: white;
+   text-align: center;
+   text-align: center;
+}
+
+.FranceRed{
+     background-color: red;
+     font-weight: bold;
+     padding: 2px;
+     border: 2px solid black;
+     color: white;
+     text-align: center;
+}
+/* .Countrypink{
+    background-color: lightpink;
+    padding: 2px;
+    border: 2px solid black;
+    color: white;
+    text-align: center;
+}
+.AgeGreen{
+    background-color: lightseagreen;
+    padding: 2px;
+    border: 2px solid black;
+    color: white;
+    text-align: center;
+} */
+.remBtn{
+    margin: 2px;
+    background-color: red;
+    color: white;
+}
+.addBtn{
+    margin: 2px;
+    background-color:darkmagenta;
+    color: white;
+}
